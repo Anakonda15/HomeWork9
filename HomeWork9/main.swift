@@ -158,7 +158,7 @@ if answerr == "no"{
 var hp = [1000, 1000, 1000, 1500]
 var bossHp = 5000
 var round = 0
-var a = “”
+var a = ""
 var damage = [0,0,0,0,0]
 var finStat = ["Воин ","Колдун ", "Медик ", "Танк ","Босс "]
 
